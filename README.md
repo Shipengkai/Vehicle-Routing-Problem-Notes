@@ -1,2 +1,2 @@
-# Vehicle-Routing-Problem-Notes
-Key difficulties and solutions in learning VRP problems
+# Vehicle-Routing-Problem-Notes 
+**Key difficulties and solutions in learning VRP problems**
