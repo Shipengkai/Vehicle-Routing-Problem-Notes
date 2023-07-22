@@ -13,8 +13,8 @@
 &emsp;&emsp;基础知识的获取需要准确无误的知识来源，推荐精读Vehicle Routing Problems, Methods, and Applications, Second Edition by Paolo Toth, Daniele Vigo一书的**绪论与前两个模型**，该书在网络上可搜到免费电子版（https://librarygenesis.pro/）。  
 &emsp;&emsp;完全吃透本书前两个CVRP的问题描述与模型，学会根据问题一条一条公式搭建模型（请勿A文章的模型+B文章的一条约束+C文章的一条约束+...），可以建立牢固的基础。  
 &emsp;&emsp;**避坑**：xx实战教程、CSDN上的模型、未验证模型的论文  
-#### 1.2.2 求解器求解（1周）
-&emsp;&emsp;以Gurobi+Python为例，可以跟着bilibili**“[大规模优化求解器-Gurobi-教程”的课程一](https://www.bilibili.com/video/BV1jt411b73m)**完成下载安装，同时搭建conda+python环境，申请gurobi资格，并加入官网qq群,视频是19年的，有出现疑问的地方qq群文件可以找到答案。Gurobi求解器的中国团队非常nice，邮件申请个人学术资格仅需几小时，qq群中的老师回答提问很迅速。
+#### 1.2.2 求解器求解（1-2周）
+&emsp;&emsp;以Gurobi+Python为例，可以跟着bilibili“[大规模优化求解器-Gurobi-教程”的课程一](https://www.bilibili.com/video/BV1jt411b73m)完成下载安装，同时搭建conda+python环境，申请gurobi资格，并加入官网qq群,视频是19年的，有出现疑问的地方qq群文件可以找到答案。Gurobi求解器的中国团队非常nice，邮件申请个人学术资格仅需几小时，qq群中的老师回答提问很迅速。
 &emsp;&emsp;这一部分需要学会：1）Python最简单的基础语法；2）编程学习中遇到疑问请学会查阅python、gurobi、matplotlib的官网帮助文档或向chatgpt提问（请避免百度搜索或CSDN）,另外请学会使用chatgpt写代码和修改代码，让chatgpt当码农，自己当老板负责指指点点。3）复现[Gurobi解决VRP问题（Python接口）](https://www.bilibili.com/video/BV1wU4y1W7jD)bilibili若失效请前往https://youtu.be/7_-Xuq2xKdc
 #### 1.2.3 启发式算法（1-2月）
 &emsp;&emsp;实现一个VRP问题的启发式算法并不简单，尤其在需要求解的问题与他人研究差别较大时更加困难，下载一份现成代码并简单修改最多得到晕乎乎的大脑和很差的求解结果。  
