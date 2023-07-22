@@ -10,7 +10,7 @@
 ### 1.2 VRP问题的建模与求解
 #### 1.2.1 建模（1-3天）
 - 各视频博客网站上能找到海量VRP建模教程，诸如“xxx-VRP问题建模实战”。然而这些教程良莠不齐，或重点讲解算法实现，或注重建模工具使用，甚至错误频出，未能讲清楚VRP问题的来龙去脉、问题描述与模型之间的对应关系。初学者在这类晦涩难懂却急功近利的教程中仿佛学了很多，但是到了知识应用的时候却无法写出正确合理的问题描述，更不必说建模了。    
-- 基础知识的获取需要准确无误的知识来源，推荐精读Vehicle Routing Problems, Methods, and Applications, Second Edition by Paolo Toth, Daniele Vigo一书的**绪论与前两个模型**，该书在网络上可搜到免费电子版，如https://librarygenesis.pro/。完全吃透书中前两个CVRP的问题描述与模型，学会根据问题一条一条公式搭建模型（请勿A文章的模型+B文章的一条约束+C文章的一条约束+...），可以建立牢固的基础。    
+- 基础知识的获取需要准确无误的知识来源，推荐精读[Vehicle Routing Problems, Methods, and Applications, Second Edition by Paolo Toth, Daniele Vigo](https://librarygenesis.pro)的**绪论与前两个模型**。完全吃透书中前两个CVRP的问题描述与模型，学会根据问题一条一条公式搭建模型（请勿A文章的模型+B文章的一条约束+C文章的一条约束+...），可以建立牢固的基础。    
 >避坑：xx实战教程、CSDN上的模型、未验证模型的论文    
 #### 1.2.2 求解器求解（1-2周）
 - 以Gurobi+Python为例，可以跟着bilibili“[大规模优化求解器-Gurobi-教程”的课程一](https://www.bilibili.com/video/BV1jt411b73m)完成下载安装，同时搭建conda+python环境，申请gurobi资格，并加入官网qq群,视频是19年的，有出现疑问的地方qq群文件可以找到答案。Gurobi求解器的中国团队非常nice，邮件申请个人学术资格仅需几小时，qq群中的老师回答提问很迅速。  
