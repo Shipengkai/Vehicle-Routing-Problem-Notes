@@ -2,7 +2,7 @@
 > **Key difficulties and solutions in learning VRP problems**  
 > 有帮助的话别忘了点个⭐  
 
-## 1 最速VRP问题学习路线:running: > *仅供参考*   
+## 1 最速VRP问题学习路线:running:(仅供参考)   
 以**最短时间内获得基础VRP科研能力**为目标，列出一份**学习难度梯度上升**的简要学习路线，零基础也可以**轻松上手**     
   
 ### 1.1 文献搜索、管理与阅读
