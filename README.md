@@ -1,6 +1,6 @@
 # Vehicle-Routing-Problem-Notes 
 > **Key difficulties and solutions in learning VRP problems**  
-> 很高兴能帮助到你，别忘了点右上角的⭐   
+> 很高兴能帮助到你，别忘了点击右上角的⭐   
 > 如果你有任何建议，欢迎发送至shipengkai1@gmail.com
 
 ## 1 VRP问题-最速学习路线:running:(经验之谈仅供参考)   
