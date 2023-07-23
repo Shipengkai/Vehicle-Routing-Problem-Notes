@@ -29,5 +29,4 @@
 ******
 - 作者：Ezreal S
 - github地址：https://github.com/Shipengkai/Vehicle-Routing-Problem-Notes
-- 仅供参考
-- 转载请注明
+- 仅供参考-转载请注明出处
