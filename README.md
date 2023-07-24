@@ -26,7 +26,7 @@
 > 经典算法pipy一般有现成包和帮助文档（俗称“轮子”），善用以避免重复劳动.例如：
 > - [多目标优化算法包pymoo](https://www.pymoo.org/),
 > - [自适应大领域搜索包alns](https://alns.readthedocs.io/en/latest/index.html),
-> - [py-ga-VRPTW](https://github.com/iRB-Lab/py-ga-VRPTW)
+> - [个人笔记py-ga-VRPTW](https://github.com/iRB-Lab/py-ga-VRPTW)
 
       
 ******
