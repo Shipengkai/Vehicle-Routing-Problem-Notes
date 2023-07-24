@@ -23,7 +23,10 @@
 1）必学**数据结构与算法**（可以跟着任意“数据结构与算法python”视频勤动手），务必达到：a、能独立完成[LeetCode简单题](https://leetcode.cn/problemset/all/?difficulty=EASY&page=1)；b、能轻松看出计算过程的时间复杂度。   
 2）必学[墨尔本大学discrete optimization线上课程](https://www.bilibili.com/video/BV1z84y1h7M1)的TSP与VRP部分，其余部分按需学习可获得算法设计灵感。   
 > 当你需要某个算法时，使用~CSDN、微信公众号~github搜索,例如
-> 经典算法pipy一般有现成包和帮助文档（俗称“轮子”），善用以避免重复劳动，例如：[多目标优化算法包pymoo](https://www.pymoo.org/),[自适应大领域搜索包alns](https://alns.readthedocs.io/en/latest/index.html),[py-ga-VRPTW](https://github.com/iRB-Lab/py-ga-VRPTW)
+> 经典算法pipy一般有现成包和帮助文档（俗称“轮子”），善用以避免重复劳动.例如：
+> - [多目标优化算法包pymoo](https://www.pymoo.org/),
+> - [自适应大领域搜索包alns](https://alns.readthedocs.io/en/latest/index.html),
+> - [py-ga-VRPTW](https://github.com/iRB-Lab/py-ga-VRPTW)
 
       
 ******
